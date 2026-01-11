@@ -2,7 +2,6 @@
 # Generic Calendar – Workspace & Termin Architecture
 🇬🇧 English Documentation
 ## Overview
-
 This project defines a generic calendar architecture based on interfaces to ensure flexibility, extensibility, and clean separation of concerns.
 
 The system is built around:
@@ -14,6 +13,10 @@ A data provider abstraction
 appointment (Termin) entities
 
 appointment properties
+## 🎥 Demo Video
+
+[![Calendar Demo](https://img.youtube.com/vi/E1fw_KYM72I/0.jpg)](https://www.youtube.com/watch?v=E1fw_KYM72I)
+
 
 ## Interfaces
 **ITermin**
