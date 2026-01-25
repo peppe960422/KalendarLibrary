@@ -14,8 +14,12 @@ appointment (Termin) entities
 
 appointment properties
 ## 🎥 Demo Video
+![docoment](https://github.com/user-attachments/assets/a541823f-e060-4b34-ab62-640498433fec)
 
-[![Calendar Demo](https://img.youtube.com/vi/E1fw_KYM72I/0.jpg)](https://www.youtube.com/watch?v=E1fw_KYM72I)
+![ezgif-4d3bb5f19d88dca5](https://github.com/user-attachments/assets/14a81360-6b35-4b3d-868c-17ac8109b1d8)
+
+![ezgif-435a859cf1354edb](https://github.com/user-attachments/assets/58f4b0b6-515d-40bd-84c2-0508de264037)
+
 
 
 ## Interfaces
